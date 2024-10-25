@@ -1,2 +1,3 @@
-# hyperupi-ios
-Swift package manager version of HyperUPI
+# HyperUPI
+
+SDK to handle UPI functionality with HyperSDK.
