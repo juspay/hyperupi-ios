@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperUPI",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.7/HyperUPI.zip",
-            checksum: "1b099d89c3e2cde63753e33516d5bff45542c315a87917157dd7931909bb4c20"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.7.1/HyperUPI.zip",
+            checksum: "d45dd12f2a7deae4d28578e92f420c169179ec312538012440bee006a34d8fca"
         )
     ]
 )
