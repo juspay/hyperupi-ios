@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "HyperUPI",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v13)
     ],
     products: [
         .library(
@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperUPI",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.7.1/HyperUPI.zip",
-            checksum: "d45dd12f2a7deae4d28578e92f420c169179ec312538012440bee006a34d8fca"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.7.2/HyperUPI.zip",
+            checksum: "030b77574317029c5d7f0ad08d174fcffdf2eec9dabed37e19245c7526933ebf"
         )
     ]
 )
